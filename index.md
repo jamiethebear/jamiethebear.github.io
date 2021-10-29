@@ -1,3 +1,4 @@
+layout: default
 # i write things here
 
 * * *
@@ -7,7 +8,7 @@ call me bear.
 i'm a philosophy and theology student,
 at the university of bristol. 
 
-* essays
-* blog-style posts
-* reading list
+* [essays](./essays.html)
+* [blog-style posts](./blog.html)
+* [reading list](./reading.html)
 
