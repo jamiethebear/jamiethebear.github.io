@@ -1,4 +1,3 @@
-layout: default
 # i write things here
 
 * * *
