@@ -9,15 +9,15 @@ html, body {
 
 body {
   font-size: 16px;
-  background-color: darkslategray;
-  color: #2f4f4f;
+  background-color: #f2ab75;
+  color: #f2ab75;
   line-height: 24px;
   margin: 0;
   border-top: 7px solid {{ site.data.theme.highlight_color }};
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #181818;
+  color: #fbe3d0;
   font-family: "open sans", sans-serif;
   font-weight: 600;
 }
