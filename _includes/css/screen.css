@@ -86,19 +86,19 @@ ul.posts li {
 
 ul.posts span {
   font-family: 'Lucida Console', 'Andale Mono', monospace;
-  color: #aaa;
+  color: #432711;
   padding-right: 5px;
   font-size:14px;
 }
 
 .meta {
-  color: #aaa;
+  color: #432711;
   margin: 0 0 10px 0;
 }
 
 .site .footer {
   font-size: 80%;
-  color: #666;
+  color: #432711;
   border-top: 4px solid #eee;
   overflow: hidden;
 }
@@ -170,14 +170,14 @@ nav h1, nav h2 {
 
 .footer {
   font-size: 80%;
-  color: #666;
-  border-top: 4px solid #EEE;
+  color: #432711;
+  border-top: 4px solid #432711;
   overflow: hidden;
 }
 
 .aside {
   font-size: 75%;
-  color: #666;
+  color: #432711
 }
 
 #home h2 {
