@@ -9,8 +9,8 @@ html, body {
 
 body {
   font-size: 16px;
-  background-color: aqua;
-  color: #00ffff;
+  background-color: darkslategray;
+  color: #2f4f4f;
   line-height: 24px;
   margin: 0;
   border-top: 7px solid {{ site.data.theme.highlight_color }};
