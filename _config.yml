@@ -1,4 +1,5 @@
-theme: jekyll-theme-lagom
-title: ["someone will remember us, i say, even in another time"]
-description: ["part-time philosopher, full-time faggot."]
-show_downloads: false
+# General Jekyll Config
+highlighter: rouge
+url: http://example.com
+lsi: false
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
