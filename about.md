@@ -4,16 +4,16 @@ whilst i am currently studying philosophy & theology, i did my a-levels in relig
 
 
 ## academic interests: 
-	* religious experience, especially mysticism
-	* the relationship between religion and mathematics
-	* aesthetics, particularly in a musical or video game context
-	* philosophy of language interlinked with identity
-	* disability studies, focused on autistic culture & thought
-	* queer theory, specifically transgender thought
-	* applying contemporary queer thought to philosophical concepts
-	* queer theology, focusing moreso on affirmative rather than defensive approaches
-	* sexual ethics & theory
-	* entheogenic studies
+* religious experience, especially mysticism
+* the relationship between religion and mathematics
+* aesthetics, particularly in a musical or video game context
+* philosophy of language interlinked with identity
+* disability studies, focused on autistic culture & thought
+* queer theory, specifically transgender thought
+* applying contemporary queer thought to philosophical concepts
+* queer theology, focusing moreso on affirmative rather than defensive approaches
+* sexual ethics & theory
+* entheogenic studies
 
 of course, i have other interests (for example, decolonising academia and political theory), but these are my main areas of focus! 
 
