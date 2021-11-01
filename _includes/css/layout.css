@@ -23,6 +23,7 @@
 	.sidebar h2 {
 		font-size: 18px;
 		position: sticky;
+		position: -webkit-sticky;
 	}
 
 	#bio {
