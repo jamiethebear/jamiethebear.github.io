@@ -144,6 +144,8 @@ nav h1, nav h2 {
   font-family: "open sans", sans-serif;
   position: sticky;
   position: -webkit-sticky;
+  /* 7px = body border-top. emulate position: fixed without screwing layout */
+  top: 7px;
 }
 
 .sidebar p {
