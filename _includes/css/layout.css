@@ -27,10 +27,6 @@
 	#bio {
 		font-size: 14px;
 	}
-	.sidebar {
-		position: sticky;
-		position: -webkit-sticky;
-	}
 }
 
 /* All Mobile Sizes (devices and browser) */
