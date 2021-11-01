@@ -22,12 +22,14 @@
 		width: 160px; }
 	.sidebar h2 {
 		font-size: 18px;
-		position: sticky;
-		position: -webkit-sticky;
 	}
 
 	#bio {
 		font-size: 14px;
+	}
+	.sidebar {
+		position: sticky;
+		position: -webkit-sticky;
 	}
 }
 
