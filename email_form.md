@@ -12,7 +12,7 @@
   </style>
 </head>
 <body>
-<p class="p1"><span class="s1">&lt;form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post"&gt;</span></p>
+<p class="p1"><span class="s1">&lt;form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{mayagjkq}" method="POST"&gt;</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;fieldset id="fs-frm-inputs"&gt;</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;label for="full-name"&gt;Full Name&lt;/label&gt;</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;input type="text" name="name" id="full-name" placeholder="First and Last" required=""&gt;</span></p>
