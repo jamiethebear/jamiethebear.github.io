@@ -17,7 +17,7 @@ for information on citations & copyright, click [here](copyright.html)
 <summary> november 2021 </summary>
 <br>
 <ul>
-<li>4-11-21 <a href= "blog_posts/4-11-21.html"> on university essays, mental health, & failing</li>
+<li>4-11-21 <a href= "blog_posts/4-11-21.html"> on university essays, mental health, & failing</a> </li>
 </ul>
 
 </details>
