@@ -7,5 +7,7 @@ for information on citations & copyright, click [here](copyright.html)
 <details>
 <summary> october 2021 </summary>
 <br>
-* 31-10-21 [on tattoos, the body, & being trans](blog_posts/31-10-21.html)
+<ul> 
+<li>31-10-21 <a href= "blog_posts/31-10-21.html"> on tattoos, the body, & being trans</a> </li>
+</ul>
 </details>
