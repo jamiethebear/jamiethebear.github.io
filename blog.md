@@ -10,7 +10,6 @@ for information on citations & copyright, click [here](copyright.html)
 <ul> 
 <li>31-10-21 <a href= "blog_posts/31-10-21.html"> on tattoos, the body, & being trans</a> </li>
 </ul>
-
 </details>
 
 <details>
@@ -19,5 +18,4 @@ for information on citations & copyright, click [here](copyright.html)
 <ul>
 <li>4-11-21 <a href= "blog_posts/4-11-21.html"> on university essays, mental health, & failing</a> </li>
 </ul>
-
 </details>
