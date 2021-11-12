@@ -11,8 +11,8 @@ my mom tried to teach me something about phenomenology when i was like. fourteen
 abigail thorn discusses phenomenology in her recent [jordan peterson](https://youtu.be/m81q-ZkfBm0) video. i don't get it!!!!!!!!!!!!
 
 <img src="phenom.jpg"
-     width= 160
-     height= 90/>
+     width= 320
+     height= 180/>
 
 i am so scared to even begin to look at a **handbook** of husserl, let alone the primary text.
 
