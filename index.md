@@ -10,4 +10,4 @@ if you'd like to know more about me, including academic interests, click [here](
 * [essays](./essays.html)
 * [blog-style posts](./blog.html)
 * [reading list](./reading.html)
-
+* [things i'm looking into](./things.html)
