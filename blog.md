@@ -18,6 +18,6 @@ for information on citations & copyright, click [here](copyright.html)
 <ul>
 <li>4-11-21 <a href= "blog_posts/4-11-21.html"> on university essays, mental health, & failing</a> </li>
 <li>7-11-21 <a href= "blog_posts/7-11-21.html"> on stimming, bass guitar, & perseverance</a> </li>
-<li>14-11-21 <a href= "blog_posts/14-11-21.html"> on marketisation, accommodation, & mould</a> </li>
+<li>14-11-21 <a href= "blog_posts/16-11-21.html"> on marketisation, accommodation, & mould</a> </li>
 </ul>
 </details>
