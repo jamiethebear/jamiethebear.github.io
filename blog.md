@@ -26,6 +26,7 @@ for information on citations & copyright, click [here](copyright.html)
 <details>
   <summary> december 2021 </summary>
   <br>
+  <li>2-12-21 <a href= "blog_posts/2-12-21.html"> on stickers, dinosaurs, & vinyls</a> </li>
   <ul>
  
   </ul>
