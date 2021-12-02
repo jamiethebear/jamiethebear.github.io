@@ -22,3 +22,11 @@ for information on citations & copyright, click [here](copyright.html)
 <li>20-11-21 <a href= "blog_posts/20-11-21.html"> on drag, poetry, & candles</a> </li>
 </ul>
 </details>
+
+<details>
+  <summary> december 2021 </summary>
+  <br>
+  <ul>
+    <li>2-12-21 <a href= "blog_posts/2-12-21.html"> on stickers, dinosaurs, & vinyl</a> </li>
+  </ul>
+</details>
