@@ -1,13 +1,10 @@
-# i am out, therefore i am
+# about me!
 
 * * *
 
-## about
-call me bear. i'm a philosophy and theology undergrad, at the university of bristol.   
-i'm also a bisexual, transmasculine autistic, going by he/him pronouns.
+hi, i'm jamie! i'm a philosophy & theology student at the university of bristol & a trans activist in my spare time. 
  
 if you'd like to know more about me, including academic interests, click [here](./about.html)
 * [essays](./essays.html)
 * [blog-style posts](./blog.html)
-* [reading list](./reading.html)
 * [things i'm looking into](./things.html)
