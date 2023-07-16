@@ -5,23 +5,23 @@ highlight_color: '#e97116'
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
-  github: bearboyf
+  #github: bearboyf
   #bitbucket: philipj
   #hacker_news: swanson
   #stackexchange: 348619
   #stackoverflow: 348619
   #twitter: _swanson
-  facebook: https://www.facebook.com/profile.php?id=100063668415119
+  #facebook: https://www.facebook.com/profile.php?id=100063668415119
   #tumblr: animalygifs
-  #linkedin: philipjagielski
+  #linkedin: wwww.linkedin.com/in/jamjewkes
   #gplus: 110552447039675960964
   #gravatar: 86e6ff8f75f9daef42d53b7f8002fd95
   #flickr: johndoe
 
 # 
-name: bear
-email: jamison.h42@gmail.com
-tagline: "weak opinions, strongly held"
+name: jamie
+#email: jamison.h42@gmail.com
+#tagline: "weak opinions, strongly held"
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key: UA-xxxx-x
